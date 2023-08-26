@@ -11,7 +11,7 @@
   "author": "spinfal",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "12.5.3",
+    "discord.js-selfbot-v13": "^2.14.5",
     "log-beautify": "^1.2.0"
   }
 }
