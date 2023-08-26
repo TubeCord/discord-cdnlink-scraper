@@ -2,6 +2,8 @@
 Do I really need to explain???\
 The code is probably a bit messy, but it works so :)
 
+(If you want to use it as a self bot make sure to change branch to selfbot!)
+
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/)
 - [pnpm](https://pnpm.io/installation)
