@@ -20,7 +20,7 @@ client.once("ready", () => {
 
 // This function fetches messages in batches of 100 until it has fetched the number of messages specified by "limit",
 // or until there are no more messages to fetch.
-async function fetchMessages(channel, limit = 200) {
+async function fetchMessages(channel, limit = 999999999999) {
   let sum_messages = []; // Array to hold all fetched messages
   let last_id; // ID of the last fetched message
 
