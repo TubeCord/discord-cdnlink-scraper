@@ -1,6 +1,6 @@
 {
   "prefix": ".",
-  "token": "your-bot-token-here",
+  "token": "YOUR-ACCOUNT-TOKEN-HERE",
   "command": "scrape",
   "outputFolder": "links",
   "excludeKeywords": [
