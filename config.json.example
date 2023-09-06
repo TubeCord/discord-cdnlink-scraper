@@ -1,7 +1,7 @@
 {
-  "prefix": ".",
+  "prefix": "",
   "token": "YOUR-ACCOUNT-TOKEN-HERE",
-  "command": "scrape",
+  "command": ".",
   "outputFolder": "links",
   "excludeKeywords": [
     "avatars",
