@@ -2,7 +2,7 @@
 Do I really need to explain???\
 The code is probably a bit messy, but it works so :)
 
-(If you want to use it as a self bot make sure to change branch to selfbot!)
+If you'd like to use a normal bot version (not a selfbot), you can visit this repo: https://github.com/spinfal/discord-cdnlink-scraper
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/)
